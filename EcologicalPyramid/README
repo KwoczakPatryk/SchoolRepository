@@ -1,0 +1,3 @@
+An assignment to visualize through text a food pyramid, structured through a Binary Tree, and accessed through recursive calls
+User inputs the apex predator, and then all creatures must be either carnivores, herbivores, or omnivores, and either animals
+or plants if the parent is a herbivore. Add as many as you want. 
